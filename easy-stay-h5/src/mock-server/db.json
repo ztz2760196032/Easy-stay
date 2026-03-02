@@ -1,0 +1,1812 @@
+{
+  "hotels": [
+    {
+      "id": "h-001",
+      "name": "易宿·上海商旅酒店",
+      "city": "上海",
+      "district": "核心商圈",
+      "address": "黄浦区10号",
+      "description": "易宿·上海商旅酒店（Easy Stay）",
+      "starRating": 5,
+      "minPrice": 500,
+      "maxPrice": 920,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+      ],
+      "rooms": [
+        {
+          "id": "r-1-01",
+          "name": "高级大床房",
+          "price": 500,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-1-02",
+          "name": "行政双床房",
+          "price": 680,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-1-03",
+          "name": "城市景观套房",
+          "price": 920,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        }
+      ],
+      "updatedAt": "2026-02-24T08:49:35.908Z",
+      "merchantId": "shared-merchant"
+    },
+    {
+      "id": "h-002",
+      "name": "易宿·北京轻居酒店",
+      "city": "上海",
+      "district": "核心商圈",
+      "address": "朝阳区11号",
+      "description": "易宿·北京轻居酒店（Easy Stay）",
+      "starRating": 3,
+      "minPrice": 330,
+      "maxPrice": 750,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c"
+      ],
+      "rooms": [
+        {
+          "id": "r-2-01",
+          "name": "高级大床房",
+          "price": 330,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-2-02",
+          "name": "行政双床房",
+          "price": 510,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-2-03",
+          "name": "城市景观套房",
+          "price": 750,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        }
+      ],
+      "updatedAt": "2026-02-24T09:14:06.037Z",
+      "merchantId": "shared-merchant"
+    },
+    {
+      "id": "h-003",
+      "name": "易宿·深圳臻选酒店",
+      "city": "上海",
+      "district": "核心商圈",
+      "address": "南山区12号",
+      "description": "易宿·深圳臻选酒店（Easy Stay）",
+      "starRating": 3,
+      "minPrice": 400,
+      "maxPrice": 820,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+        "https://images.unsplash.com/photo-1455587734955-081b22074882"
+      ],
+      "rooms": [
+        {
+          "id": "r-3-01",
+          "name": "高级大床房",
+          "price": 400,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-3-02",
+          "name": "行政双床房",
+          "price": 580,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-3-03",
+          "name": "城市景观套房",
+          "price": 820,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        }
+      ],
+      "updatedAt": "2026-02-24T09:14:06.645Z",
+      "merchantId": "shared-merchant"
+    },
+    {
+      "id": "h-004",
+      "name": "易宿·广州中心酒店",
+      "city": "广州",
+      "district": "天河区",
+      "address": "天河区13号",
+      "description": "广州天河区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 4,
+      "minPrice": 590,
+      "maxPrice": 1010,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-004",
+        "t-006"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c",
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4"
+      ],
+      "rooms": [
+        {
+          "id": "r-4-01",
+          "name": "高级大床房",
+          "price": 590,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 12
+        },
+        {
+          "id": "r-4-02",
+          "name": "行政双床房",
+          "price": 770,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 5
+        },
+        {
+          "id": "r-4-03",
+          "name": "城市景观套房",
+          "price": 1010,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-24T05:35:41.125Z"
+    },
+    {
+      "id": "h-005",
+      "name": "易宿·杭州云景酒店",
+      "city": "杭州",
+      "district": "西湖区",
+      "address": "西湖区14号",
+      "description": "杭州西湖区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 5,
+      "minPrice": 780,
+      "maxPrice": 1200,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-005",
+        "t-007"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1455587734955-081b22074882",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+      ],
+      "rooms": [
+        {
+          "id": "r-5-01",
+          "name": "高级大床房",
+          "price": 780,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-5-02",
+          "name": "行政双床房",
+          "price": 960,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 6
+        },
+        {
+          "id": "r-5-03",
+          "name": "城市景观套房",
+          "price": 1200,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-24T04:35:41.125Z"
+    },
+    {
+      "id": "h-006",
+      "name": "易宿·成都会展酒店",
+      "city": "成都",
+      "district": "高新区",
+      "address": "高新区15号",
+      "description": "成都高新区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 610,
+      "maxPrice": 1030,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-006",
+        "t-008"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      ],
+      "rooms": [
+        {
+          "id": "r-6-01",
+          "name": "高级大床房",
+          "price": 610,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 9
+        },
+        {
+          "id": "r-6-02",
+          "name": "行政双床房",
+          "price": 790,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 7
+        },
+        {
+          "id": "r-6-03",
+          "name": "城市景观套房",
+          "price": 1030,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-24T03:35:41.125Z"
+    },
+    {
+      "id": "h-007",
+      "name": "易宿·重庆商旅酒店",
+      "city": "重庆",
+      "district": "渝中区",
+      "address": "渝中区16号",
+      "description": "重庆渝中区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 4,
+      "minPrice": 800,
+      "maxPrice": 1220,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-007",
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      ],
+      "rooms": [
+        {
+          "id": "r-7-01",
+          "name": "高级大床房",
+          "price": 800,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-7-02",
+          "name": "行政双床房",
+          "price": 980,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-7-03",
+          "name": "城市景观套房",
+          "price": 1220,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-24T02:35:41.125Z"
+    },
+    {
+      "id": "h-008",
+      "name": "易宿·武汉轻居酒店",
+      "city": "上海",
+      "district": "核心商圈",
+      "address": "江汉区17号",
+      "description": "易宿·武汉轻居酒店（Easy Stay）",
+      "starRating": 3,
+      "minPrice": 750,
+      "maxPrice": 1170,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "offlineReason": "运营维护，临时下线",
+      "tagIds": [
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      ],
+      "rooms": [
+        {
+          "id": "r-8-01",
+          "name": "高级大床房",
+          "price": 750,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-8-02",
+          "name": "行政双床房",
+          "price": 930,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-8-03",
+          "name": "城市景观套房",
+          "price": 1170,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        }
+      ],
+      "updatedAt": "2026-02-24T08:49:37.100Z",
+      "merchantId": "shared-merchant"
+    },
+    {
+      "id": "h-009",
+      "name": "易宿·南京臻选酒店",
+      "city": "南京",
+      "district": "玄武区",
+      "address": "玄武区18号",
+      "description": "南京玄武区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 5,
+      "minPrice": 500,
+      "maxPrice": 920,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001",
+        "t-003"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+      ],
+      "rooms": [
+        {
+          "id": "r-9-01",
+          "name": "高级大床房",
+          "price": 500,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 12
+        },
+        {
+          "id": "r-9-02",
+          "name": "行政双床房",
+          "price": 680,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 6
+        },
+        {
+          "id": "r-9-03",
+          "name": "城市景观套房",
+          "price": 920,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-24T00:35:41.125Z"
+    },
+    {
+      "id": "h-010",
+      "name": "易宿·西安中心酒店",
+      "city": "上海",
+      "district": "核心商圈",
+      "address": "雁塔区19号",
+      "description": "易宿·西安中心酒店（Easy Stay）",
+      "starRating": 4,
+      "minPrice": 450,
+      "maxPrice": 870,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c"
+      ],
+      "rooms": [
+        {
+          "id": "r-10-01",
+          "name": "高级大床房",
+          "price": 450,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-10-02",
+          "name": "行政双床房",
+          "price": 630,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-10-03",
+          "name": "城市景观套房",
+          "price": 870,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        }
+      ],
+      "updatedAt": "2026-02-24T08:49:38.907Z",
+      "merchantId": "shared-merchant"
+    },
+    {
+      "id": "h-011",
+      "name": "易宿·苏州云景酒店",
+      "city": "苏州",
+      "district": "工业园区",
+      "address": "工业园区20号",
+      "description": "苏州工业园区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 400,
+      "maxPrice": 820,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-003",
+        "t-005"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+        "https://images.unsplash.com/photo-1455587734955-081b22074882"
+      ],
+      "rooms": [
+        {
+          "id": "r-11-01",
+          "name": "高级大床房",
+          "price": 400,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 9
+        },
+        {
+          "id": "r-11-02",
+          "name": "行政双床房",
+          "price": 580,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-11-03",
+          "name": "城市景观套房",
+          "price": 820,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T22:35:41.125Z"
+    },
+    {
+      "id": "h-012",
+      "name": "易宿·青岛会展酒店",
+      "city": "青岛",
+      "district": "崂山区",
+      "address": "崂山区21号",
+      "description": "青岛崂山区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 470,
+      "maxPrice": 890,
+      "auditStatus": "REJECTED",
+      "isOnline": false,
+      "tagIds": [
+        "t-004",
+        "t-006"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c",
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4"
+      ],
+      "rooms": [
+        {
+          "id": "r-12-01",
+          "name": "高级大床房",
+          "price": 470,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-12-02",
+          "name": "行政双床房",
+          "price": 650,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 5
+        },
+        {
+          "id": "r-12-03",
+          "name": "城市景观套房",
+          "price": 890,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-23T21:35:41.125Z"
+    },
+    {
+      "id": "h-013",
+      "name": "易宿·上海商旅酒店",
+      "city": "上海",
+      "district": "黄浦区",
+      "address": "黄浦区22号",
+      "description": "上海黄浦区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 5,
+      "minPrice": 780,
+      "maxPrice": 1200,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-005",
+        "t-007"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1455587734955-081b22074882",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+      ],
+      "rooms": [
+        {
+          "id": "r-13-01",
+          "name": "高级大床房",
+          "price": 780,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 11
+        },
+        {
+          "id": "r-13-02",
+          "name": "行政双床房",
+          "price": 960,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 6
+        },
+        {
+          "id": "r-13-03",
+          "name": "城市景观套房",
+          "price": 1200,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-23T20:35:41.125Z"
+    },
+    {
+      "id": "h-014",
+      "name": "易宿·北京轻居酒店",
+      "city": "北京",
+      "district": "朝阳区",
+      "address": "朝阳区23号",
+      "description": "北京朝阳区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 610,
+      "maxPrice": 1030,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-006",
+        "t-008"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      ],
+      "rooms": [
+        {
+          "id": "r-14-01",
+          "name": "高级大床房",
+          "price": 610,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 12
+        },
+        {
+          "id": "r-14-02",
+          "name": "行政双床房",
+          "price": 790,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 7
+        },
+        {
+          "id": "r-14-03",
+          "name": "城市景观套房",
+          "price": 1030,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T19:35:41.125Z"
+    },
+    {
+      "id": "h-015",
+      "name": "易宿·深圳臻选酒店",
+      "city": "深圳",
+      "district": "南山区",
+      "address": "南山区24号",
+      "description": "深圳南山区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 680,
+      "maxPrice": 1100,
+      "auditStatus": "APPROVED",
+      "isOnline": false,
+      "offlineReason": "运营维护，临时下线",
+      "tagIds": [
+        "t-007",
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      ],
+      "rooms": [
+        {
+          "id": "r-15-01",
+          "name": "高级大床房",
+          "price": 680,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-15-02",
+          "name": "行政双床房",
+          "price": 860,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-15-03",
+          "name": "城市景观套房",
+          "price": 1100,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-23T18:35:41.125Z"
+    },
+    {
+      "id": "h-016",
+      "name": "易宿·广州中心酒店",
+      "city": "广州",
+      "district": "天河区",
+      "address": "天河区25号",
+      "description": "广州天河区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 4,
+      "minPrice": 870,
+      "maxPrice": 1290,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-008",
+        "t-002"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      ],
+      "rooms": [
+        {
+          "id": "r-16-01",
+          "name": "高级大床房",
+          "price": 870,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 9
+        },
+        {
+          "id": "r-16-02",
+          "name": "行政双床房",
+          "price": 1050,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 5
+        },
+        {
+          "id": "r-16-03",
+          "name": "城市景观套房",
+          "price": 1290,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-23T17:35:41.125Z"
+    },
+    {
+      "id": "h-017",
+      "name": "易宿·杭州云景酒店",
+      "city": "杭州",
+      "district": "西湖区",
+      "address": "西湖区26号",
+      "description": "杭州西湖区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 5,
+      "minPrice": 500,
+      "maxPrice": 920,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001",
+        "t-003"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+      ],
+      "rooms": [
+        {
+          "id": "r-17-01",
+          "name": "高级大床房",
+          "price": 500,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-17-02",
+          "name": "行政双床房",
+          "price": 680,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 6
+        },
+        {
+          "id": "r-17-03",
+          "name": "城市景观套房",
+          "price": 920,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T16:35:41.125Z"
+    },
+    {
+      "id": "h-018",
+      "name": "易宿·成都会展酒店",
+      "city": "成都",
+      "district": "高新区",
+      "address": "高新区27号",
+      "description": "成都高新区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 330,
+      "maxPrice": 750,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-002",
+        "t-004"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c"
+      ],
+      "rooms": [
+        {
+          "id": "r-18-01",
+          "name": "高级大床房",
+          "price": 330,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 11
+        },
+        {
+          "id": "r-18-02",
+          "name": "行政双床房",
+          "price": 510,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 7
+        },
+        {
+          "id": "r-18-03",
+          "name": "城市景观套房",
+          "price": 750,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-23T15:35:41.125Z"
+    },
+    {
+      "id": "h-019",
+      "name": "易宿·重庆商旅酒店",
+      "city": "上海",
+      "district": "核心商圈",
+      "address": "渝中区28号",
+      "description": "易宿·重庆商旅酒店（Easy Stay）",
+      "starRating": 4,
+      "minPrice": 520,
+      "maxPrice": 940,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+        "https://images.unsplash.com/photo-1455587734955-081b22074882"
+      ],
+      "rooms": [
+        {
+          "id": "r-19-01",
+          "name": "高级大床房",
+          "price": 520,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-19-02",
+          "name": "行政双床房",
+          "price": 700,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-19-03",
+          "name": "城市景观套房",
+          "price": 940,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        }
+      ],
+      "updatedAt": "2026-02-24T08:38:04.495Z",
+      "merchantId": "shared-merchant"
+    },
+    {
+      "id": "h-020",
+      "name": "易宿·武汉轻居酒店",
+      "city": "武汉",
+      "district": "江汉区",
+      "address": "江汉区29号",
+      "description": "武汉江汉区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 470,
+      "maxPrice": 890,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-004",
+        "t-006"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c",
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4"
+      ],
+      "rooms": [
+        {
+          "id": "r-20-01",
+          "name": "高级大床房",
+          "price": 470,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-20-02",
+          "name": "行政双床房",
+          "price": 650,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 5
+        },
+        {
+          "id": "r-20-03",
+          "name": "城市景观套房",
+          "price": 890,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T13:35:41.125Z"
+    },
+    {
+      "id": "h-021",
+      "name": "易宿·南京臻选酒店",
+      "city": "南京",
+      "district": "玄武区",
+      "address": "玄武区30号",
+      "description": "南京玄武区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 5,
+      "minPrice": 780,
+      "maxPrice": 1200,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-005",
+        "t-007"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1455587734955-081b22074882",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+      ],
+      "rooms": [
+        {
+          "id": "r-21-01",
+          "name": "高级大床房",
+          "price": 780,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 9
+        },
+        {
+          "id": "r-21-02",
+          "name": "行政双床房",
+          "price": 960,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 6
+        },
+        {
+          "id": "r-21-03",
+          "name": "城市景观套房",
+          "price": 1200,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-23T12:35:41.125Z"
+    },
+    {
+      "id": "h-022",
+      "name": "易宿·西安中心酒店",
+      "city": "西安",
+      "district": "雁塔区",
+      "address": "雁塔区31号",
+      "description": "西安雁塔区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 4,
+      "minPrice": 730,
+      "maxPrice": 1150,
+      "auditStatus": "APPROVED",
+      "isOnline": false,
+      "offlineReason": "运营维护，临时下线",
+      "tagIds": [
+        "t-006",
+        "t-008"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      ],
+      "rooms": [
+        {
+          "id": "r-22-01",
+          "name": "高级大床房",
+          "price": 730,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-22-02",
+          "name": "行政双床房",
+          "price": 910,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 7
+        },
+        {
+          "id": "r-22-03",
+          "name": "城市景观套房",
+          "price": 1150,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-23T11:35:41.125Z"
+    },
+    {
+      "id": "h-023",
+      "name": "易宿·苏州云景酒店",
+      "city": "苏州",
+      "district": "工业园区",
+      "address": "工业园区32号",
+      "description": "苏州工业园区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 680,
+      "maxPrice": 1100,
+      "auditStatus": "REJECTED",
+      "isOnline": false,
+      "tagIds": [
+        "t-007",
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      ],
+      "rooms": [
+        {
+          "id": "r-23-01",
+          "name": "高级大床房",
+          "price": 680,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 11
+        },
+        {
+          "id": "r-23-02",
+          "name": "行政双床房",
+          "price": 860,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-23-03",
+          "name": "城市景观套房",
+          "price": 1100,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T10:35:41.125Z"
+    },
+    {
+      "id": "h-024",
+      "name": "易宿·青岛会展酒店",
+      "city": "青岛",
+      "district": "崂山区",
+      "address": "崂山区33号",
+      "description": "青岛崂山区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 750,
+      "maxPrice": 1170,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-008",
+        "t-002"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      ],
+      "rooms": [
+        {
+          "id": "r-24-01",
+          "name": "高级大床房",
+          "price": 750,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 12
+        },
+        {
+          "id": "r-24-02",
+          "name": "行政双床房",
+          "price": 930,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 5
+        },
+        {
+          "id": "r-24-03",
+          "name": "城市景观套房",
+          "price": 1170,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-23T09:35:41.125Z"
+    },
+    {
+      "id": "h-025",
+      "name": "易宿·上海商旅酒店",
+      "city": "上海",
+      "district": "黄浦区",
+      "address": "黄浦区34号",
+      "description": "上海黄浦区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 5,
+      "minPrice": 500,
+      "maxPrice": 920,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001",
+        "t-003"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+      ],
+      "rooms": [
+        {
+          "id": "r-25-01",
+          "name": "高级大床房",
+          "price": 500,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-25-02",
+          "name": "行政双床房",
+          "price": 680,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 6
+        },
+        {
+          "id": "r-25-03",
+          "name": "城市景观套房",
+          "price": 920,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-23T08:35:41.125Z"
+    },
+    {
+      "id": "h-026",
+      "name": "易宿·北京轻居酒店",
+      "city": "北京",
+      "district": "朝阳区",
+      "address": "朝阳区35号",
+      "description": "北京朝阳区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 330,
+      "maxPrice": 750,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-002",
+        "t-004"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c"
+      ],
+      "rooms": [
+        {
+          "id": "r-26-01",
+          "name": "高级大床房",
+          "price": 330,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 9
+        },
+        {
+          "id": "r-26-02",
+          "name": "行政双床房",
+          "price": 510,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 7
+        },
+        {
+          "id": "r-26-03",
+          "name": "城市景观套房",
+          "price": 750,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T07:35:41.125Z"
+    },
+    {
+      "id": "h-027",
+      "name": "易宿·深圳臻选酒店",
+      "city": "深圳",
+      "district": "南山区",
+      "address": "南山区36号",
+      "description": "深圳南山区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 400,
+      "maxPrice": 820,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-003",
+        "t-005"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+        "https://images.unsplash.com/photo-1455587734955-081b22074882"
+      ],
+      "rooms": [
+        {
+          "id": "r-27-01",
+          "name": "高级大床房",
+          "price": 400,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-27-02",
+          "name": "行政双床房",
+          "price": 580,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-27-03",
+          "name": "城市景观套房",
+          "price": 820,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-23T06:35:41.125Z"
+    },
+    {
+      "id": "h-028",
+      "name": "易宿·广州中心酒店",
+      "city": "广州",
+      "district": "天河区",
+      "address": "天河区37号",
+      "description": "广州天河区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 4,
+      "minPrice": 590,
+      "maxPrice": 1010,
+      "auditStatus": "PENDING",
+      "isOnline": false,
+      "tagIds": [
+        "t-004",
+        "t-006"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c",
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4"
+      ],
+      "rooms": [
+        {
+          "id": "r-28-01",
+          "name": "高级大床房",
+          "price": 590,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 11
+        },
+        {
+          "id": "r-28-02",
+          "name": "行政双床房",
+          "price": 770,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 5
+        },
+        {
+          "id": "r-28-03",
+          "name": "城市景观套房",
+          "price": 1010,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-23T05:35:41.125Z"
+    },
+    {
+      "id": "h-029",
+      "name": "易宿·杭州云景酒店",
+      "city": "杭州",
+      "district": "西湖区",
+      "address": "西湖区38号",
+      "description": "杭州西湖区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 5,
+      "minPrice": 780,
+      "maxPrice": 1200,
+      "auditStatus": "APPROVED",
+      "isOnline": false,
+      "offlineReason": "运营维护，临时下线",
+      "tagIds": [
+        "t-005",
+        "t-007"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1455587734955-081b22074882",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+      ],
+      "rooms": [
+        {
+          "id": "r-29-01",
+          "name": "高级大床房",
+          "price": 780,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 12
+        },
+        {
+          "id": "r-29-02",
+          "name": "行政双床房",
+          "price": 960,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 6
+        },
+        {
+          "id": "r-29-03",
+          "name": "城市景观套房",
+          "price": 1200,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T04:35:41.125Z"
+    },
+    {
+      "id": "h-030",
+      "name": "易宿·成都会展酒店",
+      "city": "成都",
+      "district": "高新区",
+      "address": "高新区39号",
+      "description": "成都高新区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 610,
+      "maxPrice": 1030,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-006",
+        "t-008"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1578898887932-dce23a595ad4",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      ],
+      "rooms": [
+        {
+          "id": "r-30-01",
+          "name": "高级大床房",
+          "price": 610,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-30-02",
+          "name": "行政双床房",
+          "price": 790,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 7
+        },
+        {
+          "id": "r-30-03",
+          "name": "城市景观套房",
+          "price": 1030,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 2
+        }
+      ],
+      "updatedAt": "2026-02-23T03:35:41.125Z"
+    },
+    {
+      "id": "h-031",
+      "name": "易宿·重庆商旅酒店",
+      "city": "重庆",
+      "district": "渝中区",
+      "address": "渝中区40号",
+      "description": "重庆渝中区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 4,
+      "minPrice": 800,
+      "maxPrice": 1220,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-007",
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      ],
+      "rooms": [
+        {
+          "id": "r-31-01",
+          "name": "高级大床房",
+          "price": 800,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 9
+        },
+        {
+          "id": "r-31-02",
+          "name": "行政双床房",
+          "price": 980,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 8
+        },
+        {
+          "id": "r-31-03",
+          "name": "城市景观套房",
+          "price": 1220,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 3
+        }
+      ],
+      "updatedAt": "2026-02-23T02:35:41.125Z"
+    },
+    {
+      "id": "h-032",
+      "name": "易宿·武汉轻居酒店",
+      "city": "武汉",
+      "district": "江汉区",
+      "address": "江汉区41号",
+      "description": "武汉江汉区核心区域，交通便利，适合商旅与休闲住宿。",
+      "starRating": 3,
+      "minPrice": 750,
+      "maxPrice": 1170,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-008",
+        "t-002"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "健身房",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      ],
+      "rooms": [
+        {
+          "id": "r-32-01",
+          "name": "高级大床房",
+          "price": 750,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        },
+        {
+          "id": "r-32-02",
+          "name": "行政双床房",
+          "price": 930,
+          "breakfast": true,
+          "cancelPolicy": "入住前两天可免费取消",
+          "stock": 5
+        },
+        {
+          "id": "r-32-03",
+          "name": "城市景观套房",
+          "price": 1170,
+          "breakfast": true,
+          "cancelPolicy": "不可取消",
+          "stock": 4
+        }
+      ],
+      "updatedAt": "2026-02-23T01:35:41.125Z"
+    },
+    {
+      "id": "h-admin-1771922329870",
+      "merchantId": "seed-merchant-001",
+      "name": "测试",
+      "city": "上海",
+      "district": "核心商圈",
+      "address": "上海",
+      "description": "测试（Easy Stay）",
+      "starRating": 5,
+      "minPrice": 400,
+      "maxPrice": 400,
+      "auditStatus": "APPROVED",
+      "isOnline": true,
+      "tagIds": [
+        "t-001"
+      ],
+      "facilities": [
+        "免费 Wi-Fi",
+        "24h 前台",
+        "行李寄存"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      ],
+      "rooms": [
+        {
+          "id": "1771922329869-0.5291127665766218",
+          "name": "1",
+          "price": 400,
+          "breakfast": true,
+          "cancelPolicy": "入住前一天 18:00 前可免费取消",
+          "stock": 10
+        }
+      ],
+      "updatedAt": "2026-02-24T09:13:05.984Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": "t-001",
+      "name": "商务出行"
+    },
+    {
+      "id": "t-002",
+      "name": "文化体验"
+    },
+    {
+      "id": "t-003",
+      "name": "景观优先"
+    },
+    {
+      "id": "t-004",
+      "name": "亲子友好"
+    },
+    {
+      "id": "t-005",
+      "name": "高端精选"
+    },
+    {
+      "id": "t-006",
+      "name": "度假放松"
+    },
+    {
+      "id": "t-007",
+      "name": "会展便捷"
+    },
+    {
+      "id": "t-008",
+      "name": "高性价比"
+    }
+  ],
+  "users": [
+    {
+      "id": "u-001",
+      "role": "ADMIN",
+      "name": "平台管理员"
+    },
+    {
+      "id": "u-002",
+      "role": "MERCHANT",
+      "name": "示例商家"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿:root {
+  font-family: 'Segoe UI', 'PingFang SC', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f7fb;
+  color: #1f2a37;
+}
+
+.h5-root {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+
+.h5-card {
+  width: min(560px, 100%);
+  background: #ffffff;
+  border: 1px solid #d9e2ef;
+  border-radius: 14px;
+  padding: 24px;
+  box-shadow: 0 10px 24px rgba(16, 24, 40, 0.08);
+}
+
+.h5-card h1 {
+  margin: 0 0 10px;
+  font-size: 28px;
+}
+
+.h5-card p {
+  margin: 0;
+  line-height: 1.6;
+}

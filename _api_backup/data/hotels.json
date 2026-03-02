@@ -1,0 +1,193 @@
+{
+  "version": 4,
+  "lastUpdated": "2026-02-21T08:39:34.041Z",
+  "hotels": [
+    {
+      "id": "seed-001",
+      "merchantId": "seed-merchant",
+      "nameZh": "易宿外滩酒店",
+      "nameEn": "EasyStay Bund Hotel",
+      "city": "Shanghai",
+      "address": "No.88 Zhongshan East 1st Road, Huangpu, Shanghai",
+      "starLevel": 5,
+      "roomTypes": [
+        {
+          "id": "seed-001-r1",
+          "name": "豪华大床房",
+          "price": 899,
+          "discount": 1,
+          "bedCount": 1,
+          "facilities": [
+            "Free WiFi",
+            "Bathtub",
+            "Mini Bar"
+          ],
+          "stock": 8
+        },
+        {
+          "id": "seed-001-r2",
+          "name": "江景套房",
+          "price": 1388,
+          "discount": 1,
+          "bedCount": 1,
+          "facilities": [
+            "Free WiFi",
+            "Living Room"
+          ],
+          "stock": 4
+        }
+      ],
+      "openTime": "2020-06-01",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+      ],
+      "nearby": "The Bund, Yu Garden",
+      "discounts": "Festival 10% off",
+      "status": "published",
+      "rejectReason": "",
+      "createdAt": "2026-02-21T00:00:00.000Z",
+      "updatedAt": "2026-02-21T00:00:00.000Z",
+      "reviewScore": 4.8,
+      "tags": [
+        {
+          "id": "luxury",
+          "name": "Luxury"
+        },
+        {
+          "id": "breakfast",
+          "name": "Breakfast"
+        }
+      ],
+      "facilities": [
+        "Gym",
+        "Pool",
+        "Parking"
+      ]
+    },
+    {
+      "id": "seed-002",
+      "merchantId": "seed-merchant",
+      "nameZh": "易宿国贸酒店",
+      "nameEn": "EasyStay Guomao Hotel",
+      "city": "Beijing",
+      "address": "No.18 Jianguo Road, Chaoyang, Beijing",
+      "starLevel": 4,
+      "roomTypes": [
+        {
+          "id": "seed-002-r1",
+          "name": "商务双床房",
+          "price": 699,
+          "discount": 0.95,
+          "bedCount": 2,
+          "facilities": [
+            "Free WiFi",
+            "Desk"
+          ],
+          "stock": 10
+        },
+        {
+          "id": "seed-002-r2",
+          "name": "行政大床房",
+          "price": 899,
+          "discount": 0.9,
+          "bedCount": 1,
+          "facilities": [
+            "Executive Lounge",
+            "Coffee Machine"
+          ],
+          "stock": 6
+        }
+      ],
+      "openTime": "2019-09-20",
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461"
+      ],
+      "nearby": "China World Mall, CCTV Tower",
+      "discounts": "2 nights save 100 CNY",
+      "status": "published",
+      "rejectReason": "",
+      "createdAt": "2026-02-21T00:00:00.000Z",
+      "updatedAt": "2026-02-21T08:39:34.041Z",
+      "reviewScore": 4.6,
+      "tags": [
+        {
+          "id": "business",
+          "name": "Business"
+        },
+        {
+          "id": "metro",
+          "name": "Metro"
+        }
+      ],
+      "facilities": [
+        "Gym",
+        "Meeting Room",
+        "Parking"
+      ]
+    },
+    {
+      "id": "seed-003",
+      "merchantId": "seed-merchant",
+      "nameZh": "易宿西湖酒店",
+      "nameEn": "EasyStay West Lake Hotel",
+      "city": "Hangzhou",
+      "address": "No.66 Shuguang Road, Xihu, Hangzhou",
+      "starLevel": 4,
+      "roomTypes": [
+        {
+          "id": "seed-003-r1",
+          "name": "湖景大床房",
+          "price": 629,
+          "discount": 1,
+          "bedCount": 1,
+          "facilities": [
+            "Free WiFi",
+            "Lake View"
+          ],
+          "stock": 7
+        },
+        {
+          "id": "seed-003-r2",
+          "name": "亲子家庭房",
+          "price": 759,
+          "discount": 0.88,
+          "bedCount": 2,
+          "facilities": [
+            "Kids Set",
+            "Bathtub"
+          ],
+          "stock": 5
+        }
+      ],
+      "openTime": "2021-03-15",
+      "images": [
+        "https://images.unsplash.com/photo-1564501049412-61c2a3083791",
+        "https://images.unsplash.com/photo-1590490360182-c33d57733427"
+      ],
+      "nearby": "West Lake, Lingyin Temple",
+      "discounts": "Weekend 12% off",
+      "status": "published",
+      "rejectReason": "",
+      "createdAt": "2026-02-21T00:00:00.000Z",
+      "updatedAt": "2026-02-21T00:00:00.000Z",
+      "reviewScore": 4.7,
+      "tags": [
+        {
+          "id": "family",
+          "name": "Family"
+        },
+        {
+          "id": "parking",
+          "name": "Parking"
+        }
+      ],
+      "facilities": [
+        "Restaurant",
+        "Parking",
+        "Laundry"
+      ]
+    }
+  ]
+}
